@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API_REST_PRUEBA.Repository
 {
-    public class PeliculaSalaCineRepository : InterfacePeliculaSalaCineRepository
+    public class PeliculaSalaCineRepository : IPeliculaSalaCineRepository
     {
         private readonly CineDBContext contexto;
 

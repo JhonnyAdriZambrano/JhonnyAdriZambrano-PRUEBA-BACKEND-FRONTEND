@@ -1,4 +1,4 @@
-﻿using API_REST_PRUEBA.Models.DTOs;
+﻿using API_REST_PRUEBA.DTOs;
 using API_REST_PRUEBA.Services;
 using Microsoft.AspNetCore.Mvc;
 

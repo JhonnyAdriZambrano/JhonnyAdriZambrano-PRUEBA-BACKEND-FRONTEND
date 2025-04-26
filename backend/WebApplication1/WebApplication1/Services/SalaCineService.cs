@@ -1,14 +1,14 @@
-﻿using API_REST_PRUEBA.Models.DTOs;
+﻿using API_REST_PRUEBA.DTOs;
 using API_REST_PRUEBA.Repository;
 
 namespace API_REST_PRUEBA.Services
 {
     public class SalaCineService : ISalaCineService
     {
-        private readonly InterfaceSalaCineRepository _salaCineRepository;
-        private readonly InterfacePeliculaSalaCineRepository _peliculaSalaCineRepository;
+        private readonly ISalaCineRepository _salaCineRepository;
+        private readonly IPeliculaSalaCineRepository _peliculaSalaCineRepository;
 
-        public SalaCineService(InterfaceSalaCineRepository salaCineRepository, InterfacePeliculaSalaCineRepository peliculaSalaCineRepository)
+        public SalaCineService(ISalaCineRepository salaCineRepository, IPeliculaSalaCineRepository peliculaSalaCineRepository)
         {
             _salaCineRepository = salaCineRepository;
             _peliculaSalaCineRepository = peliculaSalaCineRepository;

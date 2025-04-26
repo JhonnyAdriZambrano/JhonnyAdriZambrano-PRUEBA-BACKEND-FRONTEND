@@ -13,9 +13,9 @@ builder.Services.AddDbContext<CineDBContext>(options => options.UseSqlServer(con
 
 builder.Services.AddControllers();
 
-builder.Services.AddScoped<InterfacePeliculaRepository, PeliculaRepository>();
-builder.Services.AddScoped<InterfaceSalaCineRepository, SalaCineRepository>();
-builder.Services.AddScoped<InterfacePeliculaSalaCineRepository, PeliculaSalaCineRepository>();
+builder.Services.AddScoped<IPeliculaRepository, PeliculaRepository>();
+builder.Services.AddScoped<ISalaCineRepository, SalaCineRepository>();
+builder.Services.AddScoped<IPeliculaSalaCineRepository, PeliculaSalaCineRepository>();
 builder.Services.AddScoped<IPeliculaService, PeliculaService>();
 builder.Services.AddScoped<ISalaCineService, SalaCineService>();
 
