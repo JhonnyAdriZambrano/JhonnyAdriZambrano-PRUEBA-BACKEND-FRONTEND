@@ -4,10 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API_REST_PRUEBA.Repository
 {
-    public class SalaCineRepository: ISalaCineRepository
+    public class SalaCineRepository : ISalaCineRepository
     {
         private readonly CineDBContext contexto;
-
         public SalaCineRepository(CineDBContext context)
         {
             contexto = context;

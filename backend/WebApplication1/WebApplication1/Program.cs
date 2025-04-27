@@ -12,7 +12,6 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<CineDBContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddControllers();
-
 builder.Services.AddScoped<IPeliculaRepository, PeliculaRepository>();
 builder.Services.AddScoped<ISalaCineRepository, SalaCineRepository>();
 builder.Services.AddScoped<IPeliculaSalaCineRepository, PeliculaSalaCineRepository>();
