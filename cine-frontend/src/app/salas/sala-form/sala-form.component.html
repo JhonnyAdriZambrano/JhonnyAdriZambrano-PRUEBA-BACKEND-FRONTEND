@@ -1,0 +1,46 @@
+<h2>{{ isEditMode ? 'Editar Sala' : 'Nueva Sala' }}</h2>
+<hr>
+
+<div *ngIf="isLoading && isEditMode" class="text-center">
+  <div class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Cargando datos de la sala...</span>
+  </div>
+</div>
+
+<div *ngIf="errorMessage && !isLoading" class="alert alert-danger">
+  {{ errorMessage }}
+</div>
+
+<form *ngIf="!isLoading" [formGroup]="salaForm" (ngSubmit)="onSubmit()">
+
+  <div class="mb-3">
+    <label for="nombre" class="form-label">Nombre Sala</label>
+    <input type="text" id="nombre" class="form-control" formControlName="nombre"
+           [ngClass]="{ 'is-invalid': salaForm.get('nombre')?.invalid && (salaForm.get('nombre')?.dirty || salaForm.get('nombre')?.touched) }">
+    <div *ngIf="salaForm.get('nombre')?.hasError('required')" class="invalid-feedback">
+      El nombre es obligatorio.
+    </div>
+     <div *ngIf="salaForm.get('nombre')?.hasError('maxlength')" class="invalid-feedback">
+      El nombre no puede exceder los 100 caracteres.
+    </div>
+  </div>
+
+  <div class="mb-3">
+    <label for="estado" class="form-label">Estado</label>
+    <input type="text" id="estado" class="form-control" formControlName="estado"
+           [ngClass]="{ 'is-invalid': salaForm.get('estado')?.invalid && (salaForm.get('estado')?.dirty || salaForm.get('estado')?.touched) }">
+     <div *ngIf="salaForm.get('estado')?.hasError('maxlength')" class="invalid-feedback">
+      El estado no puede exceder los 50 caracteres.
+    </div>
+  </div>
+
+  <div class="mt-4">
+    <button type="submit" class="btn btn-primary me-2" [disabled]="salaForm.invalid || isSaving">
+      <span *ngIf="!isSaving">{{ isEditMode ? 'Actualizar' : 'Crear' }} Sala</span>
+      <span *ngIf="isSaving" class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+      <span *ngIf="isSaving"> Guardando...</span>
+    </button>
+    <a routerLink="../" class="btn btn-secondary">Cancelar</a>
+  </div>
+
+</form>

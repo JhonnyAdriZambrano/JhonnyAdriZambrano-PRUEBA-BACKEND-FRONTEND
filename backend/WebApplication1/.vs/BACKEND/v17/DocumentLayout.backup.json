@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\salacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\salacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\peliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\peliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\peliculacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\peliculacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\salastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\salastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\controllers\\salascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,56 +39,96 @@
       "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\data\\cinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\asignacioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\asignacioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\ipeliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\ipeliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\models\\salacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\models\\salacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\models\\peliculasalacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\models\\peliculasalacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\peliculaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\peliculaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\peliculacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\peliculacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\peliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\peliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\peliculaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\peliculaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\salacinecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\salacinecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\salacinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\salacinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\salacineupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\salacineupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\dtos\\salastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\dtos\\salastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\models\\peliculasalacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\models\\peliculasalacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\models\\salacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\models\\salacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\ipeliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\ipeliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\isalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\isalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\peliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\peliculasalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\salacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\salacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\asignacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\asignacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\iasignacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\iasignacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\isalacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\isalacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\salacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\salacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\repository\\isalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\repository\\isalacinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|c:\\users\\user\\onedrive\\escritorio\\prueba\\backend\\webapplication1\\webapplication1\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE74193E-AB41-44B6-B314-A59AB50CA27E}|WebApplication1\\API REST PRUEBA.csproj|solutionrelative:webapplication1\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,51 +142,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:19:46.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PeliculaCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaCreateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PeliculaCreateDto.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaCreateDto.cs",
-              "RelativeToolTip": "WebApplication1\\DTOs\\PeliculaCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:58:59.152Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "PeliculaController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\PeliculaController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PeliculaController.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\PeliculaController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\PeliculaController.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAuwB4AAABPAAAAAAAAAA==",
+              "Title": "AsignacionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\AsignacionCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\AsignacionCreateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\AsignacionCreateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\AsignacionCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:01:17.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SalasController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\SalasController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SalasController.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\SalasController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SalasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:56:05.62Z"
+              "WhenOpened": "2025-04-26T21:36:05.362Z"
             },
             {
               "$type": "Document",
@@ -156,194 +160,85 @@
               "RelativeDocumentMoniker": "WebApplication1\\Data\\CineDBContext.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Data\\CineDBContext.cs",
               "RelativeToolTip": "WebApplication1\\Data\\CineDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T19:25:54.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SalaStatusDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaStatusDto.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\SalaStatusDto.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaStatusDto.cs",
-              "RelativeToolTip": "WebApplication1\\DTOs\\SalaStatusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "SalasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\SalasController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SalasController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\SalasController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SalasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:00:21.583Z"
+              "WhenOpened": "2025-04-22T21:56:05.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPeliculaService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\IPeliculaService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\IPeliculaService.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\IPeliculaService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\IPeliculaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:08:55.115Z"
+              "WhenOpened": "2025-04-22T21:01:17.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AsignacionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Controllers\\AsignacionesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AsignacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:47:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T06:10:26.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PeliculaSalaCineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:07:37.908Z"
+              "WhenOpened": "2025-04-22T19:19:46.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PeliculaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\PeliculaRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\PeliculaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:54:28.214Z"
+              "Title": "BACKEND.http",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\BACKEND.http",
+              "RelativeDocumentMoniker": "WebApplication1\\BACKEND.http",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\BACKEND.http",
+              "RelativeToolTip": "WebApplication1\\BACKEND.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-27T17:48:42.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PeliculaService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\PeliculaService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\PeliculaService.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\PeliculaService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\PeliculaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:11:05.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPeliculaSalaCineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:50:05.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPeliculaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IPeliculaRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\IPeliculaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:37:55.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SalaCine.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\SalaCine.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\SalaCine.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\SalaCine.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\SalaCine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:13:44.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PeliculaSalaCine.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\PeliculaSalaCine.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\PeliculaSalaCine.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\PeliculaSalaCine.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\PeliculaSalaCine.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:14:20.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\Pelicula.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\Pelicula.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Pelicula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T19:13:16.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PeliculaUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
-              "RelativeToolTip": "WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:59:41.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PeliculaDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaDto.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PeliculaDto.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaDto.cs",
-              "RelativeToolTip": "WebApplication1\\DTOs\\PeliculaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:58:25.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SalaCineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\SalaCineRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\SalaCineRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\SalaCineRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\SalaCineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:48:57.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ISalaCineService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\ISalaCineService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\ISalaCineService.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\ISalaCineService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\ISalaCineService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:09:31.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SalaCineService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\SalaCineService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\SalaCineService.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\SalaCineService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\SalaCineService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:13:46.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -355,15 +250,280 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaCineService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\SalaCineService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\SalaCineService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\SalaCineService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\SalaCineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:13:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardStatsDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\DashboardStatsDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\DashboardStatsDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\DashboardStatsDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\DashboardStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:30:16.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeliculaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PeliculaCreateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaCreateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\PeliculaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:58:59.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PeliculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PeliculaDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\PeliculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:58:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PeliculaUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\PeliculaUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:59:41.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalaCineCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaCineCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\SalaCineCreateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaCineCreateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\SalaCineCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:19:03.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalaCineDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaCineDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\SalaCineDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaCineDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\SalaCineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:48:57.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalaCineUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaCineUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\SalaCineUpdateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaCineUpdateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\SalaCineUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:19:33.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalaStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaStatusDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\SalaStatusDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\DTOs\\SalaStatusDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\SalaStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:00:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\Pelicula.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Pelicula.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:16.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PeliculaSalaCine.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\PeliculaSalaCine.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PeliculaSalaCine.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\PeliculaSalaCine.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PeliculaSalaCine.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:14:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SalaCine.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\SalaCine.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SalaCine.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Models\\SalaCine.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SalaCine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:44.461Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "IPeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IPeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\IPeliculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:37:55.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPeliculaSalaCineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\IPeliculaSalaCineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:50:05.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ISalaCineRepository.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\ISalaCineRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repository\\ISalaCineRepository.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\ISalaCineRepository.cs",
               "RelativeToolTip": "WebApplication1\\Repository\\ISalaCineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T19:43:40.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\PeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\PeliculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:54:28.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PeliculaSalaCineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\PeliculaSalaCineRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:07:37.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalaCineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\SalaCineRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\SalaCineRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Repository\\SalaCineRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\SalaCineRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:48:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AsignacionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\AsignacionService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\AsignacionService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\AsignacionService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\AsignacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:46:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAsignacionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\IAsignacionService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IAsignacionService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\IAsignacionService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IAsignacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:43:53.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\IPeliculaService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IPeliculaService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\IPeliculaService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IPeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:08:55.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISalaCineService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\ISalaCineService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ISalaCineService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\ISalaCineService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ISalaCineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:09:31.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\PeliculaService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\PRUEBA\\backend\\WebApplication1\\WebApplication1\\Services\\PeliculaService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\PeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:11:05.283Z"
             }
           ]
         }

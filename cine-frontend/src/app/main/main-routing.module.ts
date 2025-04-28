@@ -26,7 +26,11 @@ const routes: Routes = [
     // /app () a /app/dashboard
     { path: '', redirectTo: 'dashboard', pathMatch: 'full' }
   ]
-}
+},
+  { path: 'dashboard', loadChildren: () => import('../dashboard/dashboard.module').then(m => m.DashboardModule) },
+  { path: 'peliculas', loadChildren: () => import('../peliculas/peliculas.module').then(m => m.PeliculasModule) },
+  { path: 'salas', loadChildren: () => import('../salas/salas.module').then(m => m.SalasModule) },
+  { path: 'asignar', loadChildren: () => import('../asignacion/asignacion.module').then(m => m.AsignacionModule) }
 ];
 
 @NgModule({

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API_REST_PRUEBA.Repository
 {
-    public class PeliculaRepository: IPeliculaRepository
+    public class PeliculaRepository : IPeliculaRepository
     {
         private readonly CineDBContext contexto;
 
@@ -12,19 +12,19 @@ namespace API_REST_PRUEBA.Repository
         {
             contexto = context;
         }
-        // Devolver películas activas
+        //Devolver películas activas
         public async Task<IEnumerable<Pelicula>> GetAllAsync()
         {
             return await contexto.Peliculas.Where(p => p.Activo).ToListAsync();
         }
-        // Buscar por ID y este activa
+        //Buscar por ID y este activa
         public async Task<Pelicula?> GetByIdAsync(int id)
         {
             return await contexto.Peliculas.FirstOrDefaultAsync(p => p.IdPelicula == id && p.Activo);
         }
         public async Task<IEnumerable<Pelicula>> GetByNameAsync(string nombre)
         {
-            // Buscar por nombre mayúsculas/minúsculas estando activa
+            //Buscar por nombre mayúsculas/minúsculas estando activa
             return await contexto.Peliculas
                                  .Where(p => p.Nombre.Contains(nombre) && p.Activo)
                                  .ToListAsync();
@@ -32,7 +32,7 @@ namespace API_REST_PRUEBA.Repository
 
         public async Task AddAsync(Pelicula pelicula)
         {
-            pelicula.Activo = true; 
+            pelicula.Activo = true;
             contexto.Peliculas.Add(pelicula);
             await contexto.SaveChangesAsync(); // Guardado en db
         }
@@ -55,7 +55,6 @@ namespace API_REST_PRUEBA.Repository
                 await contexto.SaveChangesAsync();
             }
         }
-
         public async Task<bool> ExistsAsync(int id)
         {
             return await contexto.Peliculas.AnyAsync(p => p.IdPelicula == id && p.Activo);

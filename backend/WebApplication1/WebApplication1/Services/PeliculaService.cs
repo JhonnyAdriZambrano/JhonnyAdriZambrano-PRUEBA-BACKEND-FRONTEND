@@ -1,6 +1,7 @@
-﻿using API_REST_PRUEBA.Models;
-using API_REST_PRUEBA.Repository;
+﻿using API_REST_PRUEBA.Data;
 using API_REST_PRUEBA.DTOs;
+using API_REST_PRUEBA.Models;
+using API_REST_PRUEBA.Repository;
 
 namespace API_REST_PRUEBA.Services
 {
@@ -8,13 +9,16 @@ namespace API_REST_PRUEBA.Services
     {
         private readonly IPeliculaRepository _peliculaRepository;
         private readonly IPeliculaSalaCineRepository _peliculaSalaCineRepository;
+        private readonly CineDBContext _context;
 
-        public PeliculaService(IPeliculaRepository peliculaRepository, IPeliculaSalaCineRepository peliculaSalaCineRepository)
+        public PeliculaService(IPeliculaRepository peliculaRepository,
+            IPeliculaSalaCineRepository peliculaSalaCineRepository,
+            CineDBContext context)
         {
             _peliculaRepository = peliculaRepository;
             _peliculaSalaCineRepository = peliculaSalaCineRepository;
+            _context = context;
         }
-
 
         public async Task<IEnumerable<PeliculaDto>> GetAllPeliculasAsync()
         {

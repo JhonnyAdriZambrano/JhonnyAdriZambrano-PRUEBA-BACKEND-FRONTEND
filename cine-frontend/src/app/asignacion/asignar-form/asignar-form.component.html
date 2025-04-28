@@ -1,0 +1,75 @@
+<h2>Asignar Película a Sala</h2>
+<hr>
+
+<div *ngIf="isLoading" class="text-center">
+  <div class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Cargando opciones...</span>
+  </div>
+</div>
+
+ <div *ngIf="errorMessage && !isLoading" class="alert alert-danger">
+  {{ errorMessage }}
+</div>
+ <div *ngIf="successMessage && !isLoading" class="alert alert-success">
+  {{ successMessage }}
+</div>
+
+
+<form *ngIf="!isLoading" [formGroup]="asignacionForm" (ngSubmit)="onSubmit()">
+
+  <div class="mb-3">
+    <label for="peliculaId" class="form-label">Película</label>
+    <select id="peliculaId" class="form-select" formControlName="idPelicula"
+            [ngClass]="{ 'is-invalid': asignacionForm.get('idPelicula')?.invalid && asignacionForm.get('idPelicula')?.touched }">
+      <option [ngValue]="null" disabled>-- Seleccione una Película --</option>
+      <option *ngFor="let pelicula of peliculas" [ngValue]="pelicula.idPelicula">
+        {{ pelicula.nombre }}
+      </option>
+    </select>
+    <div *ngIf="asignacionForm.get('idPelicula')?.hasError('required')" class="invalid-feedback">
+      Debe seleccionar una película.
+    </div>
+  </div>
+
+  <div class="mb-3">
+    <label for="salaCineId" class="form-label">Sala de Cine</label>
+    <select id="salaCineId" class="form-select" formControlName="idSalaCine"
+            [ngClass]="{ 'is-invalid': asignacionForm.get('idSalaCine')?.invalid && asignacionForm.get('idSalaCine')?.touched }">
+      <option [ngValue]="null" disabled>-- Seleccione una Sala --</option>
+      <option *ngFor="let sala of salas" [ngValue]="sala.idSala">
+        {{ sala.nombre }} ({{ sala.estado || 'Sin estado' }})
+      </option>
+    </select>
+     <div *ngIf="asignacionForm.get('idSalaCine')?.hasError('required')" class="invalid-feedback">
+      Debe seleccionar una sala.
+    </div>
+  </div>
+
+  <div class="mb-3">
+    <label for="fechaPublicacion" class="form-label">Fecha Publicación</label>
+    <input type="date" id="fechaPublicacion" class="form-control" formControlName="fechaPublicacion"
+           [ngClass]="{ 'is-invalid': asignacionForm.get('fechaPublicacion')?.invalid && asignacionForm.get('fechaPublicacion')?.touched }">
+     <div *ngIf="asignacionForm.get('fechaPublicacion')?.hasError('required')" class="invalid-feedback">
+      La fecha de publicación es requerida.
+    </div>
+  </div>
+
+  <div class="mb-3">
+    <label for="fechaFin" class="form-label">Fecha Fin</label>
+    <input type="date" id="fechaFin" class="form-control" formControlName="fechaFin"
+           [ngClass]="{ 'is-invalid': asignacionForm.get('fechaFin')?.invalid && asignacionForm.get('fechaFin')?.touched }">
+     <div *ngIf="asignacionForm.get('fechaFin')?.hasError('required')" class="invalid-feedback">
+      La fecha de fin es requerida.
+    </div>
+     </div>
+
+  <div class="mt-4">
+    <button type="submit" class="btn btn-primary" [disabled]="asignacionForm.invalid || isSaving">
+       <span *ngIf="!isSaving">Asignar Película</span>
+       <span *ngIf="isSaving" class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+       <span *ngIf="isSaving"> Guardando...</span>
+    </button>
+    <button type="button" class="btn btn-secondary ms-2" (click)="resetForm()" [disabled]="isSaving">Limpiar</button>
+  </div>
+
+</form>

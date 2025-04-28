@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API_REST_PRUEBA.Models
 {
-    [Table ("sala_cine")]
+    [Table("sala_cine")]
     public class SalaCine
     {
         [Key]
@@ -17,7 +17,7 @@ namespace API_REST_PRUEBA.Models
 
         [StringLength(50)]
         [Column("estado")]
-        public string? Estado { get; set; } 
+        public string? Estado { get; set; }
 
         [Required]
         [Column("Activo")]

@@ -8,13 +8,13 @@
 	},
 	"item": [
 		{
-			"name": "CINE POST",
+			"name": "api/peliculas",
 			"request": {
 				"method": "POST",
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "    {\r\n    \"idPelicula\": 1010,\r\n    \"nombre\": \"string\",\r\n    \"duracion\": 500\r\n    }",
+					"raw": "    {\r\n    \"nombre\": \"DMC2\",\r\n    \"duracion\": 220\r\n    }",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -22,7 +22,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula",
+					"raw": "https://localhost:7179/api/peliculas",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -30,19 +30,19 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula"
+						"peliculas"
 					]
 				}
 			},
 			"response": []
 		},
 		{
-			"name": "CINE GET /api/Pelicula",
+			"name": "api/peliculas",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula",
+					"raw": "https://localhost:7179/api/peliculas",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -50,19 +50,19 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula"
+						"peliculas"
 					]
 				}
 			},
 			"response": []
 		},
 		{
-			"name": "CINE GET /api/Pelicula {ip}",
+			"name": "api/pelicula {id}",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula/1002",
+					"raw": "https://localhost:7179/api/peliculas/2015",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -70,21 +70,21 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula",
-						"1002"
+						"peliculas",
+						"2015"
 					]
 				}
 			},
 			"response": []
 		},
 		{
-			"name": "CINE /api/Pelicula {id}",
+			"name": "api/pelicula {id}",
 			"request": {
 				"method": "PUT",
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"nombre\": \"Avatar\",\r\n  \"duracion\": 500\r\n}",
+					"raw": "{\r\n  \"nombre\": \"DMCR\",\r\n  \"duracion\": 200\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -92,7 +92,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula/1003",
+					"raw": "https://localhost:7179/api/peliculas/2020",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -100,20 +100,20 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula",
-						"1003"
+						"peliculas",
+						"2020"
 					]
 				}
 			},
 			"response": []
 		},
 		{
-			"name": "/api/Pelicula/1005",
+			"name": "/api/peliculas/2020",
 			"request": {
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula/1005",
+					"raw": "https://localhost:7179/api/peliculas/2020",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -121,8 +121,8 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula",
-						"1005"
+						"peliculas",
+						"2020"
 					]
 				}
 			},
@@ -134,7 +134,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula/buscarPorNombre?nombre=avatar",
+					"raw": "https://localhost:7179/api/peliculas/buscarPorNombre?nombre=DMC",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -142,13 +142,13 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula",
+						"peliculas",
 						"buscarPorNombre"
 					],
 					"query": [
 						{
 							"key": "nombre",
-							"value": "avatar"
+							"value": "DMC"
 						}
 					]
 				}
@@ -161,7 +161,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7179/api/Pelicula/porFechaPublicacion?fecha=2025-04-23",
+					"raw": "https://localhost:7179/api/peliculas/porFechaPublicacion?fecha=2025-04-28",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -169,13 +169,13 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Pelicula",
+						"peliculas",
 						"porFechaPublicacion"
 					],
 					"query": [
 						{
 							"key": "fecha",
-							"value": "2025-04-23"
+							"value": "2025-04-28"
 						}
 					]
 				}
@@ -188,7 +188,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7179/api/Salas/statusPorNombre?nombreSala=YUM",
+					"raw": "https://localhost:7179/api/salas/statusPorNombre?nombreSala=Sala%201",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -196,14 +196,161 @@
 					"port": "7179",
 					"path": [
 						"api",
-						"Salas",
+						"salas",
 						"statusPorNombre"
 					],
 					"query": [
 						{
 							"key": "nombreSala",
-							"value": "YUM"
+							"value": "Sala%201"
 						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/salas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7179/api/salas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7179",
+					"path": [
+						"api",
+						"salas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/salas",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"SALON\",\r\n  \"estado\": \"ACTIVO\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7179/api/salas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7179",
+					"path": [
+						"api",
+						"salas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/salas/statusPorNombre",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7179/api/salas/statusPorNombre?nombreSala=Sala%201",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7179",
+					"path": [
+						"api",
+						"salas",
+						"statusPorNombre"
+					],
+					"query": [
+						{
+							"key": "nombreSala",
+							"value": "Sala%201"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/salas/1008",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7179/api/salas/1008",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7179",
+					"path": [
+						"api",
+						"salas",
+						"1008"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/salas/stats",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7179/api/salas/stats",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7179",
+					"path": [
+						"api",
+						"salas",
+						"stats"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"idPelicula\": 2019,\r\n  \"idSalaCine\": 1004,\r\n  \"fechaPublicacion\": \"2025-04-28T09:59:39.942Z\",\r\n  \"fechaFin\": \"2025-04-28T09:59:39.942Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7179/api/asignaciones",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7179",
+					"path": [
+						"api",
+						"asignaciones"
 					]
 				}
 			},

@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API_REST_PRUEBA.Models
 {
-    [Table ("pelicula_salacine")]
+    [Table("pelicula_salacine")]
     public class PeliculaSalaCine
     {
         [Key]
-        [Column("id_pelicula_sala")]
+        [Column("id_pelicula_salacine")]
         public int IdPeliculaSala { get; set; }
 
         [Required]

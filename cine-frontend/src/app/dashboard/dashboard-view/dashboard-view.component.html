@@ -1,0 +1,41 @@
+<h2>Dashboard</h2>
+<hr>
+
+<div *ngIf="isLoading" class="d-flex justify-content-center mt-5">
+  <div class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Cargando...</span>
+  </div>
+</div>
+
+<div *ngIf="errorMessage && !isLoading" class="alert alert-danger">
+  {{ errorMessage }}
+</div>
+
+<div *ngIf="!isLoading && !errorMessage" class="row mt-4">
+  <div class="col-md-4 mb-3">
+    <div class="card text-white bg-primary h-100">
+      <div class="card-header">Total Películas Activas</div>
+      <div class="card-body text-center">
+        <div class="display-4 fw-bold">{{ totalPeliculas || '...' }}</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-3">
+    <div class="card text-white bg-success h-100">
+      <div class="card-header">Total Salas Activas</div>
+      <div class="card-body text-center">
+        <div class="display-4 fw-bold">{{ totalSalas || '...' }}</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-3">
+    <div class="card text-dark bg-warning h-100">
+      <div class="card-header">Salas Disponibles (Calculado)</div>
+      <div class="card-body text-center">
+        <div class="display-4 fw-bold">{{ totalSalasDisponibles || '?' }}</div>
+      </div>
+    </div>
+  </div>
+</div>

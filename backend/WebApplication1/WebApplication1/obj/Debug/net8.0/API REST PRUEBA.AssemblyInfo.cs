@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API REST PRUEBA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d173601984a3d608da0f00c469ca2481bca012")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a82cdc18193cc801e7bd67e847f846eba6d166c")]
 [assembly: System.Reflection.AssemblyProductAttribute("API REST PRUEBA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API REST PRUEBA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
